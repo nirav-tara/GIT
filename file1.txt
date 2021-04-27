@@ -1,1 +1,3 @@
 modifying file1
+complete statement1
+complete statement2
